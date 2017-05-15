@@ -1,1 +1,61 @@
-/* Agrega aquí tus estilos*/
+body {
+    background-color: #99ffff;
+}
+
+h1 {
+    color: #33ffff;
+    font-size: 60px;
+    text-align: right;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin: 50px;
+}
+
+h2 {
+    color: #43A5B0;
+    font-size: 35px;
+    margin: 50px;
+    padding: 10px;
+}
+
+h3 {
+    color: #43A5B0;
+    font-size: 25px;
+    border-style: dashed;
+    border-width: 3px;
+    border-left-width: 10px;
+    border-right-width: 10px;
+    border-color: #43A5B0;
+    margin: 50px;
+}
+
+#zen-intro {
+    background-color: powderblue;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 20px;
+}
+
+#zen-summary {
+    background-color: powderblue;
+    margin: 20px;
+}
+
+#zen-preamble {
+    background-color: powderblue;
+    margin: 20px;
+}
+
+#design-selection {
+    background-color: powderblue;
+    text-decoration: none;
+    margin: 20px;
+}
+
+p {
+    color: navy;
+    margin: 50px;
+}
+
+footer{
+    height: 100px;
+    margin: 50px;
+}
